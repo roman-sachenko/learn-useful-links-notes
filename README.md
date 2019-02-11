@@ -30,6 +30,11 @@ Useful links and notes to learn NodeJS and related domains.
 - https://github.com/roman-sachenko/boilerplate-api-express-mongodb-auth0
 
 
+## TypeScript
+
+- https://www.youtube.com/watch?v=rAy_3SIqT-E
+- https://www.youtube.com/channel/UCNcKwRBi-8vIrcobZDv0_og/videos
+
 ## Random
 
 - [NodeJS Worker Threads](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10?fbclid=IwAR20hMi8gFoJwRgEOZHB8HG29ZuxTwkI6gcjEv5vVFCTQpVsnKDVMI4e55E&gi=7032cf18f5)
