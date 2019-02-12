@@ -27,6 +27,7 @@ Amazon Lambda Limits: https://docs.aws.amazon.com/lambda/latest/dg/limits.html
 
 #### Read
 
+- [Code Examples](https://github.com/serverless/examples)
 - [Real price of Serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b?fbclid=IwAR02gebmumPMctySiWEayxDsiqoS3DN52-yKoErvWWRUS-NRz2zUyrlJQNI)
 - [AWS Stack Notes](./assets/aws_stack_notes.pdf)
 
