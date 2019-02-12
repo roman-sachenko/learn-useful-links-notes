@@ -2,6 +2,10 @@
 
 ### Thematic
 
+#### Refactoring 
+
+- https://refactoring.guru/refactoring
+
 #### TypeScript
 
 - https://www.youtube.com/watch?v=rAy_3SIqT-E
