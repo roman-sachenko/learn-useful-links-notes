@@ -12,6 +12,11 @@
 - https://www.youtube.com/channel/UCNcKwRBi-8vIrcobZDv0_og/videos
 
 
+#### Security
+
+- [Refresh Token WTF](https://auth0.com/learn/refresh-tokens/)
+
+
 ### Read/Learn
 
 - [Netflix: Cloud Computing](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
