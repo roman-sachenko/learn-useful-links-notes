@@ -2,6 +2,18 @@
 
 ### Read/Learn
 
+
+#### WTF is NodeJS
+
+- https://www.oreilly.com/ideas/what-is-node
+- https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+
+
+#### Async programming with JavaScript
+
+- https://blog.risingstack.com/node-hero-async-programming-in-node-js/
+
+
 #### Architecture/Skeletons
 
 - https://github.com/roman-sachenko/boilerplate-api-express-mongodb-auth0
@@ -10,6 +22,7 @@
 #### Event Loop
 
 - http://voidcanvas.com/nodejs-event-loop/
+- https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
 
 
 #### Error Handling
