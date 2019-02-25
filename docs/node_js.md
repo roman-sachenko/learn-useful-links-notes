@@ -27,7 +27,7 @@
 
 #### Error Handling
 
-- https://www.joyent.com/node-js/production/design/errors)
+- https://www.joyent.com/node-js/production/design/errors
 
 
 #### Security
