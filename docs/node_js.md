@@ -59,6 +59,7 @@
 
 #### NodeJS Process Module
 
+- https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
 - https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/
 
 
