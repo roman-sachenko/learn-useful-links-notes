@@ -24,6 +24,10 @@
 - http://voidcanvas.com/nodejs-event-loop/
 - https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
 
+#### Event Emitter and Event Driven Architecture
+
+- https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d
+
 
 #### Error Handling
 
@@ -55,6 +59,7 @@
 
 #### NodeJS Process Module
 
+- https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a
 - https://blog.risingstack.com/mastering-the-node-js-core-modules-the-process-module/
 
 
